@@ -26,6 +26,8 @@ Language models, acting as a "judge", will rate an AI output out of 10. If any o
 6. Run `python main.py` and see what kinds of judgements the council makes
 
 
+Note: For for "commonsense" AITA (Am I the Asshole?) questions, "allowed" means you are the asshole and "disallowed" means you are not the asshole (so it's kind of inverted).
+
 ## More about the Project & Me
 After creating [Teenage-AGI](https://github.com/seanpixel/Teenage-AGI), I wondered about potential implications of Agentic LLMs and some ways to moderate its unpredictable behaviors. From this, I thought of democracy and how a decentralized system of AIs could monitor other AIs from causing harm. So came council-of-ai. While contributing to the "acceleration" of technology, I still care about AI Safety and believe that safely guiding AI towards the future can be as fun and exciting as accelerating. 
 
