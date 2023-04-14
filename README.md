@@ -37,4 +37,4 @@ Create more "setups", these are basically the characteristics of the judges. Pla
 
 
 ## Credits
-Credits to [@DanHendrycks] for the Ethics dataset used in testing the idea.
+Credits to [@DanHendrycks](https://twitter.com/DanHendrycks) for the Ethics dataset used in testing the idea.
