@@ -8,11 +8,14 @@ import random
 #     actions = yaml.load(f, Loader=yaml.FullLoader)
 #agent_action = actions["action_good_1"]
 
-# Test Type options: commonsense, deontology, justice, utilitarianism, virtue
+# Test Type options: commonsense, deontology, justice, utilitarianism, virtue. 
+# Choose one by its index by changing choice variable
+test_types = ["commonsense", "deontology", "justice", "utilitarianism", "virtue"]
+loaders = [load_cm_sentences, load_deontology_sentences, load_justice_sentences, load_util_sentences, load_virtue_sentences]
+choice = 0
 
-test_type = "justice"
-
-sentences, labels = load_justice_sentences(f"./ethics/{test_type}")
+# Load data
+sentences, labels = loaders[choice](f"./ethics/{test_types[choice]}")
 
 # Number of actions to judge
 n_samples = 5
@@ -57,13 +60,5 @@ for i in range(0, len(justice_samples)):
         print("The output was blocked by the council")
     
     print("------------END OF VERDICT------------\n")
-
-
-
-
-
-
-
-
 
 
