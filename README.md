@@ -8,7 +8,7 @@ Implement a system to judge AI Agents outputs using a **council** of AI models. 
 ## Sections
 - [How it Works](https://github.com/seanpixel/council-of-ai/blob/main/README.md#how-it-works)
 - [How to Use](https://github.com/seanpixel/council-of-ai/blob/main/README.md#how-to-use)
-- [More About Project & Me](https://github.com/seanpixel/council-of-ai/blob/main/README.md#https://github.com/seanpixel/Teenage-AGI#more-about-the-project--me)
+- [More About Project & Me](https://github.com/seanpixel/council-of-ai/blob/main/README.md#more-about-the-project--me)
 - [What you can do](https://github.com/seanpixel/council-of-ai/blob/main/README.md#what-you-can-do)
 - [Credits](https://github.com/seanpixel/council-of-ai/blob/main/README.md#credits)
 
