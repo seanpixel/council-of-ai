@@ -10,8 +10,8 @@ import random
 
 # Test Type options: commonsense, deontology, justice, utilitarianism, virtue. 
 # Choose one by its index by changing choice variable
-test_types = ["commonsense", "deontology", "justice", "utilitarianism", "virtue"]
-loaders = [load_cm_sentences, load_deontology_sentences, load_justice_sentences, load_util_sentences, load_virtue_sentences]
+test_types = ["deontology", "commonsense", "justice", "utilitarianism", "virtue"]
+loaders = [load_deontology_sentences, load_cm_sentences, load_justice_sentences, load_util_sentences, load_virtue_sentences]
 choice = 0
 
 # Load data
