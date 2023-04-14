@@ -20,7 +20,7 @@ Language models, acting as a "judge", will rate an AI output out of 10. If any o
 ## How to Use
 1. Clone the repository via `git clone https://github.com/seanpixel/council-of-ai.git` and cd into the cloned repository. 
 2. Install required packages by doing: pip install -r requirements.txt
-3. Download the ethics dataset from [here](https://people.eecs.berkeley.edu/~hendrycks/ethics.tar).
+3. Download the ethics dataset from [here](https://people.eecs.berkeley.edu/~hendrycks/ethics.tar) and move it into root (same dir as main.py).
 4. Create a .env file or plug in your key in judge.py (line 8), all you need is an OPENAI_API_KEY
 5. Go to main.py and choose the test type using the choice variable (default is commonsense)
 6. Run `python main.py` and see what kinds of judgements the council makes
