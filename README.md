@@ -14,7 +14,7 @@ Implement a system to judge AI Agents outputs using a **council** of AI models. 
 
 
 ## How it Works
-Language models, acting as a "judge", will rate an AI output out of 10. If any of the judges in the council (formed by a group of judges) vetoes (verdict == false) an output, that output will be flagged as being potentially immoral/unjust/harmful/useless. 
+Language models, acting as a "judge", will rate an AI output out of 10. If any of the judges in the **council** (formed by a group of judges) vetoes an output (verdict == false), that output will be flagged as being potentially immoral/unjust/harmful/useless. 
 
 
 ## How to Use
