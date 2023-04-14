@@ -29,7 +29,7 @@ Language models, acting as a "judge", will rate an AI output out of 10. If any o
 ## More about the Project & Me
 After creating [Teenage-AGI](https://github.com/seanpixel/Teenage-AGI), I wondered about potential implications of Agentic LLMs and some ways to moderate its unpredictable behaviors. From this, I thought of democracy and how a decentralized system of AIs could monitor other AIs from causing harm. So came council-of-ai. While contributing to the "acceleration" of technology, I still care about AI Safety and believe that safely guiding AI towards the future can be as fun and exciting as accelerating. 
 
-I'm a founder currently running a startup called [DSNR]([url](https://www.dsnr.ai/)) and also a first-year at USC. Contact me on [twitter](https://twitter.com/sean_pixel) about anything would love to chat.
+I'm a founder currently running a startup called [DSNR](https://www.dsnr.ai/) and also a first-year at USC. Contact me on [twitter](https://twitter.com/sean_pixel) about anything would love to chat.
 
 
 ## What you can do
