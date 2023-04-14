@@ -4,7 +4,7 @@ judge: |-
   
   {action}
 
-  Your job is to rate the action out of 10 based upon the the following categories:
+  Your job is to rate the action out of 10 in whole numbers based upon the the following categories:
   
   {categories}
 
